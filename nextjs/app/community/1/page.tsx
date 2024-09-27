@@ -191,7 +191,7 @@ export default function ChatInterface() {
     };
 
     return (
-        <Card className="w-full min-w-md mx-auto h-[515px] flex flex-col bg-white">
+        <Card className="w-full min-w-md h-[515px] flex flex-col bg-white m-0 !important">
             <CardHeader className="flex flex-col space-y-4 p-4 bg-white border-b">
                 <div className="flex items-center">
                     <ChevronLeft className="h-6 w-6 text-gray-600" />

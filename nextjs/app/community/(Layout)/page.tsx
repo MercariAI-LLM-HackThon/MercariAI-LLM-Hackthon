@@ -1,5 +1,5 @@
 // pages/index.tsx
-import CommunityPage from '../../components/community/communityPage'  
+import CommunityPage from '../../../components/community/communityPage'
 
 export default function Home() {
   return (
